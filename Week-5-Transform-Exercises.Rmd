@@ -100,8 +100,7 @@ babynames %>%
 3. Plot the results as a line graph with `year` on the x axis and `prop` on the y axis
 
 ```{r}
-
-
+help
 ```
 
 ## Your Turn 6
